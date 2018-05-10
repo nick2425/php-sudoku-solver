@@ -1,5 +1,7 @@
 <?php
 
+namespace nick2425\sudoku;
+
 class Stack {
 
     private $stk = array();
