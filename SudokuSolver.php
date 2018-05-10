@@ -1,6 +1,7 @@
 <?php
 
 require_once "Stack.php";
+namespace nick2425\sudoku;
 
 class SudokuSolver {
     protected $_iSudoku = array();
