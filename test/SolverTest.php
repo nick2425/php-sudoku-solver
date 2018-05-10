@@ -1,5 +1,7 @@
 <?php
 
+    namespace nick2425\sudoku;
+
     class SolverTester extends PHPUnit_Framework_TestCase
     {
 
