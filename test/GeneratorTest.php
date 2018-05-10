@@ -1,5 +1,7 @@
 <?php
 
+    namespace nick2425\sudoku;
+
     class GeneratorTest extends PHPUnit_Framework_TestCase
     {
 
