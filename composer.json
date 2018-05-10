@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "shubhamjain\\sudoku\\": ["src/"]
+      "nick2425\\sudoku\\": ["src/"]
     }
   }
 }
