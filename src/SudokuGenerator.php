@@ -1,8 +1,8 @@
 <?php
+namespace nick2425\sudoku;
 
 require_once "Stack.php";
 require_once "SudokuSolver.php";
-namespace nick2425\sudoku;
 
 class SudokuGenerator extends SudokuSolver
 {
